@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4b4482f71660187c","x":-698,"y":258,"width":250,"height":60,"type":"text","text":"#### I like building things"},
+		{"id":"0292fde159d9282f","x":418,"y":254,"width":276,"height":69,"type":"text","text":"#### What I'll work on next"},
+		{"id":"e0bebeccdda20233","x":-184,"y":245,"width":337,"height":77,"type":"text","text":"#### Working at a big company feels exhausting"},
+		{"id":"9e39d1a3715e90ff","x":-62,"y":100,"width":94,"height":60,"type":"text","text":"### I Quit"}
+	],
+	"edges":[
+		{"id":"d9dd97aaabc25498","fromNode":"9e39d1a3715e90ff","fromSide":"left","toNode":"4b4482f71660187c","toSide":"top"},
+		{"id":"fac24b8845aee535","fromNode":"9e39d1a3715e90ff","fromSide":"bottom","toNode":"e0bebeccdda20233","toSide":"top"},
+		{"id":"40e1bd32368cbf91","fromNode":"9e39d1a3715e90ff","fromSide":"right","toNode":"0292fde159d9282f","toSide":"top"}
+	]
+}
