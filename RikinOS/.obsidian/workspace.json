@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1af349ab4925b0",
+        "id": "b2983f9c916eae38",
         "type": "tabs",
         "children": [
           {
-            "id": "fc70b09c2a54b391",
+            "id": "6aea2c78a8002aca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Active Projects/Savoree - Main Document.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Savoree - Main Document"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Active Projects/Savoree - Main Document.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Savoree - Main Document"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Active Projects/Savoree - Main Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Savoree - Main Document"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Active Projects/Savoree - Main Document.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Savoree - Main Document"
             }
           }
         ]
@@ -176,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc70b09c2a54b391",
+  "active": "6aea2c78a8002aca",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Active Projects/Savoree - Main Document.md",
+    "Active Projects",
     "Welcome.md",
     "create a link.md"
   ]
