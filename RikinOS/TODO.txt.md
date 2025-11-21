@@ -33,4 +33,15 @@ Spend some time really thinking about what this role is to you? What types of th
 - FIll out Crit Doc for TDS.Option Panel
 - Project Ideas + Manifesto
 - Compose for Web + IDS Test
-- 
+
+
+2025:11:20
+---
+
+Quick Plan
+
+*Wrap up as much of IDS Component Adoption*
+- Get Review Feedback
+- Break things out for easy testability
+
+
