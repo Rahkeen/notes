@@ -25,17 +25,14 @@
             "id": "eddcc172b06c1284",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "projects/instacart/Component Adoption Architecture.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.27893632491429643
-                }
+                "file": "projects/supergooey/Savoree - Working Document.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Component Adoption Architecture"
+              "icon": "lucide-file",
+              "title": "Savoree - Working Document"
             }
           }
         ],
@@ -203,14 +200,15 @@
   },
   "active": "eddcc172b06c1284",
   "lastOpenFiles": [
+    "projects/supergooey/Savoree - Working Document.md",
+    "TODO.txt.md",
+    "projects/instacart/Design Technologist Manifesto.md",
     "projects/instacart/Component Adoption Architecture.canvas",
     "projects/supergooey",
     "projects/instacart",
     "Untitled.md",
-    "TODO.txt.md",
     "templates/Untitled.md",
     "templates",
-    "projects/supergooey/Savoree - Working Document.md",
     "Untitled/Untitled",
     "Instacart",
     "Untitled.base",

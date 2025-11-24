@@ -44,4 +44,24 @@ Quick Plan
 - Get Review Feedback
 - Break things out for easy testability
 
+2025:11:21
+---
 
+Claude Code Talk
+
+USE PLAN MODE
+Esc, NOT Ctrl-C
+
+
+Memory / Notes
+`_claude folder + global gitignore`
+DANCE Framework
+
+Quick Plan
+
+*Component Adoption*
+- Let's follow up with Francois on the counting mechanism
+- See if we can come to terms on what the counting logic should be
+- See if we can land the PR today
+
+*TDS Options Panel*
