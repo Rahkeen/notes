@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"1f290920674da579","x":-587,"y":-271,"width":647,"height":451,"type":"text","text":"**Phase One - Collection**\n\nScan IDS Modules\nScan Project Modules\n\nWhat's the output?\n\nA list of components to process by module\n- Scan for any directory that has a `src` directory, that counts as a modulez\nA lookup table to find a component by it's unique name\n- Works for both IDS components and Project Components\n\n"}
+	],
 	"edges":[]
 }

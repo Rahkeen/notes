@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/supergooey/Savoree - Working Document.md",
+                "file": "TODO.txt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Savoree - Working Document"
+              "title": "TODO.txt"
             }
           }
         ],
@@ -200,10 +200,10 @@
   },
   "active": "eddcc172b06c1284",
   "lastOpenFiles": [
-    "projects/supergooey/Savoree - Working Document.md",
-    "TODO.txt.md",
-    "projects/instacart/Design Technologist Manifesto.md",
     "projects/instacart/Component Adoption Architecture.canvas",
+    "TODO.txt.md",
+    "projects/supergooey/Savoree - Working Document.md",
+    "projects/instacart/Design Technologist Manifesto.md",
     "projects/supergooey",
     "projects/instacart",
     "Untitled.md",
