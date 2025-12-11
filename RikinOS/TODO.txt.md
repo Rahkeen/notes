@@ -155,4 +155,21 @@ Last Score we got: Total Score: 62.2%
 2025-12-10
 ---
 
+Things I needs to do:
+- Restart Button Expy
+- Followup on Adoption Diff
+- SelectionBordered renaming
+
+What are some things I can pick up today:
+- Look at the Banana Sheet, create a simple prototype using our API
+- Re-pick up TDS Selection Panel, see if I can get some feedback
+
+
+Some things are clarifying after talking to Abhay
+- I want to showcase my skills, and build cool experiences
+- I want to explore building things with Rive, Spline, etc and finding ways to bring that into the product
+- If there is an opportunity to help built a tool or prototype, let's get after it.
+
+Tomorrow if I wake up early!
+- Start taking Rive 101
 
