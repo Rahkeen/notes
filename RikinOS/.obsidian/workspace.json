@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "TODO.txt"
             }
+          },
+          {
+            "id": "19e28c01c68d82f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/supergooey/Savoree - Working Document.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Savoree - Working Document"
+            }
           }
         ],
         "currentTab": 1
@@ -200,13 +214,21 @@
   },
   "active": "eddcc172b06c1284",
   "lastOpenFiles": [
-    "projects/instacart/Component Adoption Architecture.canvas",
+    "Learning Rive.md",
+    "assets/Screenshot 2026-01-26 at 10.07.05 PM.png",
+    "Joy of React.md",
     "TODO.txt.md",
+    "Devouring Details.md",
+    "projects/instacart/2025 Year in Review.md",
+    "assets/Screenshot 2025-12-18 at 4.23.33 PM.png",
+    "assets",
+    "projects/instacart/Token Audit.md",
+    "projects/instacart/Token Audit Canvas.canvas",
     "projects/supergooey/Savoree - Working Document.md",
+    "projects/instacart/Component Adoption Architecture.canvas",
     "projects/instacart/Design Technologist Manifesto.md",
     "projects/supergooey",
     "projects/instacart",
-    "Untitled.md",
     "templates/Untitled.md",
     "templates",
     "Untitled/Untitled",

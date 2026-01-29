@@ -173,3 +173,119 @@ Some things are clarifying after talking to Abhay
 Tomorrow if I wake up early!
 - Start taking Rive 101
 
+2025-12-11
+---
+
+Abhays Review
+
+Abhay's Core Strengths:
+
+Abhay is a strong communicator. When working with him, I've noticed he always asks for clarification in ambiguious scenarios. He is also very proactive in setting up lines of communication, bring people in and sharing his work frequently.
+
+Abhay is also strong in Domain Expertise. I worked with him on the Caper Android Sandbox and he showed a high level of technical understanding. It made working with him a breeze and we were able to deliver high quality output together.
+
+Abhay's Opportunities to Grow:
+
+Mostly I just want him to be able to shine his skillset more. I think he is very eager to help build prototypes and tools that help unlock designers, and specifically the Caper team to help them test out flows, and get higher quality feedback. I think his mix of technical knowledge, speed of execution, and eagerness to explore the unknown are an amazing combo, so I just want to see him advocate and explore more opportunities that let him showcase his ability.
+
+Anything else:
+
+Aside from strictly his strong abilities, Abhay is a fantastic person and partner to work with. He always has a good attitude no matter the situation, and personally it's been great having someone to share stories with, bounce ideas off of, and just chat with in general. It is always a positive and uplifting experience.
+
+**Today is Rive Day**
+
+Let's stop overthinking and start learning something new
+
+[[Learning Rive]]
+
+**For Tomorrow**
+
+If I wake up early, continue doing some rive learning
+Make a list of small projects to work on as well
+Decide on continuing your side app project
+
+2025-12-12
+---
+
+All right, quick little brainstorm here. What do I want to do with the time that I have left for getting, you know, thinking about the type of work I want to do here at Instacart. And there's a couple things I want to explore in general. All right, I want to explore motion design tools, tools like Rive, right? I want to get really good at like motion design type experiences. Okay, like I want to know that in and out and I want to be able to create like motion graphics or things that like if we want to demonstrate an idea like Rive could be a good opportunity there. So I want to explore Rive at the very least. I want to explore tool explain for 3D and integrating 3D into mobile applications. But I also want to work with native code and build native prototypes, right? So I want that to also be a thing. And so I think a lot of times my head's kind of split on like, hey, like I have some bandwidth, like what should I explore? And right now, like I've been, I've been, I feel like I'm being pulled towards Rive. But I also have these courses for like getting into React and building whimsical, cool, React based, web based like interaction design experiences. Function design is also what I'm like referring to here. So yeah, there's just a lot going on in my brain. And I feel like I need to like vomit it out and come up with like a list of little mini projects that I can explore. And you know, gate my exploration with projects that I want to build. So for example, if I want to learn Rive, like I should have an example project in Rive that I want to build some sort of design thing. Yeah, let's start there. I need to go up and poop.
+
+2025-12-14
+---
+
+Things to think about tomorrow:
+1. Followup on Component Adoption things
+2. Prioritize restarting the experiment
+3. Build Banana Picker Prototype
+4. Come up with some Rive Experiments for IDS
+5. Come up with some prototyping projects (make them explicit)
+6. Make a project plan that includes these
+
+
+2025-12-17
+---
+
+ Okay, so I am just talking about the ideal flow here for this link rule. So if I run it for a particular module, essentially, what I want to do is I want to capture all of the functions that are in its dependency path. Right? So any declared function there. And then from those declared functions, I now have a list of functions here. And I guess, you know, maybe instead of doing that, maybe what I would do is I would find the declared functions in the particular module that I care about. Right? Right. And in that module, I'm going to resolve any function that I see. Right. And so as I go through declared functions, I go through called expressions, I check if they are methods and if they are, I resolve them. Okay. And when I resolve them, I can get their full qualified name. And then I can also potentially visit that function. Right. And so that's when we can do this recursive structure here. So I'm curious if we can like just get that proof of concept out of the way first.
+
+1. POC function traversal using a lint rule
+
+2025-12-18
+---
+
+I'm a bit frustrated and in a rut, so I'm gonna be spending my time learning. And I just wanna get started, so let's start.
+
+In general, I'm interested in interaction design, so I'm looking at devouring details.
+
+Then maybe I can go more into react with joy of react
+
+There is also threejs journey, getting more into 3D
+
+then we just got svg.info, a course on everything svg
+
+
+For Tomorrow:
+
+Investigate what things are tracked as roots
+Investigate what functions are being called
+
+
+2025-12-19
+---
+
+ Alright, let's just remind ourselves what we should be doing here. There are obviously going to be some errors here in the logic in terms of identifying call expressions as functions and mapping them to functions that exist in the project. So, I think the first thing we need to do is just anytime we hit a case where we don't know where the function belongs, we track that in our output.
+
+ We can take a pass at seeing what issues we can resolve. But honestly I think we need to be okay with a little bit of error. We give up a little bit of accuracy for something that's quick and something that works for the time being.
+
+2026-01-6
+---
+
+2026-01-21
+---
+
+What are things I am going to do today?
+
+*Continue Token Audit + Share Progress with Miranda*
+- Part of this means brainstorming ideas for showcasing tokens
+- A tool / flow in Cursor to get a snapshot of the implemented tokens compared to the source of truth
+
+
+*Follow up with Yoni about design exploration tool (multiple iterations)*
+- Check `#dnrprivate`slack channel
+
+*Continue ramping button experiment*
+*Start building an AI tools landscape document for designers*
+- This can be something that lives in Figma? It can be more freeform, showcase tools, visuals, guides, etc.
+
+Ok so that's some things I can work on. And I should continue to try and occupy and best utilize my time and working hours there.z`
+
+
+2026-01-27
+---
+
+I need to play around with different flows to quickly scaffold a prototyping workspace
+
+An example would be, I wanna try playing around with button loading states for our primary button, there should be a skill or command or something that just adds all the necessary navigation, wiring, etc.
+
+
+
+
+
