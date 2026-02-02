@@ -17,3 +17,4 @@ This is an Obsidian vault for personal notes and learning materials.
 
 - Notes use standard markdown with Obsidian-specific features (wikilinks `[[Note Name]]`, canvas files)
 - TODO.txt.md is a running log - new entries go at the bottom with a date header
+- After making any entry or changes to notes, commit and push to GitHub
