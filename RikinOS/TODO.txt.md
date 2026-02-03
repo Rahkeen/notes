@@ -31,3 +31,14 @@ Investigating an opportunity to clean up the small stepper animation - it looks 
 **iOS Sandbox:**
 
 Brett asked me to help revamp the iOS sandbox application. Going to spend some time today looking at it so I can help resolve some issues he's running into.
+
+**Completed:**
+
+- Finished v0 of the Figma IDS plugin documentation. It's rough around the edges but provides a starting point - will get feedback from the team and add follow-ups.
+
+**Thinking about for tomorrow:**
+
+- Stepper changes - fix the animation (got to this today, want to continue)
+- Miranda's ask - update component to allow an icon in the section titles leading slot
+- Help improve the iOS sandbox for AI prototyping - good opportunity while also working on AI tools documentation
+- Start with decoding work, then move to landscape documentation
