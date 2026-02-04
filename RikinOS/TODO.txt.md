@@ -40,3 +40,14 @@ Brett asked me to help revamp the iOS sandbox application. Going to spend some t
 - Miranda's ask - update component to allow an icon in the section titles leading slot
 - Help improve the iOS sandbox for AI prototyping - good opportunity while also working on AI tools documentation
 - Start with decoding work, then move to landscape documentation
+
+2026-2-3
+---
+
+Had 3 interviews today - was kinda nuts but made it through.
+
+**Priorities:**
+
+- Fill out interview scorecards for the remaining candidates - tackle this first thing
+- Investigate the button height bug pointed out in the Android thread - fix if possible
+- Try to fix the stepper issue before diving into AI documentation
