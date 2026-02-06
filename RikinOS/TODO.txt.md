@@ -51,3 +51,19 @@ Had 3 interviews today - was kinda nuts but made it through.
 - Fill out interview scorecards for the remaining candidates - tackle this first thing
 - Investigate the button height bug pointed out in the Android thread - fix if possible
 - Try to fix the stepper issue before diving into AI documentation
+
+2026-2-5
+---
+
+Fixed an issue with the price inset button today. It's currently out of spec, but we're not prioritizing component updates at the moment - will revisit later.
+
+**Tomorrow priorities:**
+
+- Dive into AI documentation - get a basic setup going in Figma around Cursor, Claude Code, Figma Make, etc.
+- Continue with the stepper animation bug - want to see if AI can help work through what the animation should be, then try re-implementing it in the actual component
+- If time permits: keep working on Rive things OR start the Joy of React course to get acclimated to web stuff
+
+**AI exploration goals:**
+
+- Prioritize working with AI to build solid animations and see how it can construct components
+- Explore using AI as a teaching tool - have it deep dive on concepts by writing code and walking me through it
