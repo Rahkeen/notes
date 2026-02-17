@@ -67,3 +67,11 @@ Fixed an issue with the price inset button today. It's currently out of spec, bu
 
 - Prioritize working with AI to build solid animations and see how it can construct components
 - Explore using AI as a teaching tool - have it deep dive on concepts by writing code and walking me through it
+
+2026-2-15
+---
+
+**Current side quests:**
+
+1. **Joy of React** - Taking this course to learn React fundamentals and get a better pulse on building for web.
+2. **Interaction design w/ Android** - Learning Android animation + motion design deeply.
